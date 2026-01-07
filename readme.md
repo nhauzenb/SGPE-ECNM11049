@@ -1,5 +1,5 @@
 # Advanced Time Series Econometrics (ATSE) 
-# Academic Year 2025/26
+# Academic Year 2026
 ## N. Hauzenberger & P. Wu
 
 
@@ -13,7 +13,7 @@ We are very thankful to [Gary Koop](https://sites.google.com/site/garykoop/home)
 
 **Lecturer:** Ping Wu ([ping.wu@strath.ac.uk](mailto:ping.wu@strath.ac.uk); [pingwu.org](https://pingwu.org/))
 
-**Tutor:** TBC
+**Tutor:** Moke Wu ([moke.wu@strath.ac.uk](mailto:moke.wu@strath.ac.uk))
 
 **Office Hours:** Immediately after the lecture or online via Zoom (in this case email in advance)
 
@@ -56,3 +56,7 @@ Make sure you download **R** and learn how to use it **BEFORE** for the first co
 4. Material for [Computer Session 4](./Lab%20Material/Lab%204)
 
 Additional lab material will be added soon.
+
+### Mock/past exam paper 2025
+
+Will be added soon. 
