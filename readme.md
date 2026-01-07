@@ -57,6 +57,6 @@ Make sure you download **R** and learn how to use it **BEFORE** for the first co
 
 Additional lab material will be added soon.
 
-### Mock/past exam paper 2025
+### Exam Paper 2025 (Mock Exam)
 
 Will be added soon. 
