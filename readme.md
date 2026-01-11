@@ -47,7 +47,7 @@ Another good textbook which covers much of the course material is: [*Tsay, R. (2
 
 ### Material for Computer Sessions
 
-Make sure you download **R** and learn how to use it **BEFORE** for the first computer session. Instructions provided in Lab 0. 
+Make sure you download **R** and learn how to use it **BEFORE** for the first computer session. Instructions are provided in Lab 0. 
 
 0. [Installing and Using R](./Lab%20Material/Lab%200)
 1. Material for [Computer Session 1](./Lab%20Material/Lab%201)
