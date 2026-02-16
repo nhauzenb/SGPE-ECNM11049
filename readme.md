@@ -55,8 +55,6 @@ Make sure you download **R** and learn how to use it **BEFORE** for the first co
 3. Material for [Computer Session 3](./Lab%20Material/Lab%203)
 4. Material for [Computer Session 4](./Lab%20Material/Lab%204)
 
-Additional lab material will be added soon.
-
 ### Exam Paper 2025 (Mock Exam)
 
 [Mock exam](ATSE_Mock%20Exam.pdf)
