@@ -59,4 +59,4 @@ Additional lab material will be added soon.
 
 ### Exam Paper 2025 (Mock Exam)
 
-[Mock exam](ATSE_Mock%*%Exam.pdf)
+[Mock exam](ATSE_Mock%20Exam.pdf)
